@@ -1,0 +1,15 @@
+{
+    "title": "Working Project",
+    "baseURL": "https:\/\/workingproject.com\/working",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "\/working",
+        "firstpartycookies": true,
+        "cookiedomain": "workingproject.com"
+    }
+}
